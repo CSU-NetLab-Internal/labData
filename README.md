@@ -1,2 +1,1 @@
-# Welcome
-Welcome to CSU-NetLab-Internal
+本文件夹存放实验室的公开资料
